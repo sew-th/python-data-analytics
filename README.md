@@ -4,6 +4,8 @@ This is a showcase of my data analysis with python. It is intended to document m
 Select any .ipynb file to see my work.  
 
 libraries used:  
-pandas  
+pandas
+matplotlib
+numpy
 seaborn  
 plotly express  
