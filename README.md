@@ -5,7 +5,7 @@ Select any .ipynb file to see my work.
 
 libraries used:  
 pandas
-matplotlib
-numpy
+matplotlib  
+numpy  
 seaborn  
 plotly express  
